@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Chalamdor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Chalamdor\\.nuget\\packages"
+    ]
+  }
+}
